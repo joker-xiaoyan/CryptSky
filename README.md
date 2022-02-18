@@ -1,5 +1,5 @@
 # CryptSky
-
+勒索软件
 CryptSky is an open source, fully python ransomware PoC. It's main purpose is
 not to be run like most software projects, but to be read for educational
 purposes.
